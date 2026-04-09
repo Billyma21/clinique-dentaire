@@ -2,11 +2,11 @@
 
 Ce projet est le site web officiel de la **Clinique Dentaire Sabiri**, située à Forest (1190 Bruxelles). Il s'agit d'un site vitrine moderne, performant et entièrement responsive, conçu pour offrir une expérience utilisateur fluide aux patients.
 
-## ✒️ Auteur & Copyright
+##  Auteur & Copyright
 
 **COPYRIGHT et protection d'auteur :** Ce site a été créé intégralement par **MAAYOUD.B**. Tous droits réservés. Toute reproduction ou utilisation sans autorisation est strictement interdite.
 
-## 🚀 Technologies Utilisées
+##  Technologies Utilisées
 
 - **React 19** : Bibliothèque JavaScript pour construire l'interface utilisateur.
 - **Vite** : Outil de build ultra-rapide pour le développement moderne.
@@ -15,7 +15,7 @@ Ce projet est le site web officiel de la **Clinique Dentaire Sabiri**, située �
 - **Lucide React** : Bibliothèque d'icônes modernes et légères.
 - **TypeScript** : Pour un code robuste et typé.
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - **Design Premium** : Une interface épurée et professionnelle adaptée au secteur médical.
 - **Responsive Design** : Optimisé pour tous les supports (mobiles, tablettes, ordinateurs).
@@ -45,7 +45,7 @@ Ce projet est le site web officiel de la **Clinique Dentaire Sabiri**, située �
    npm run build
    ```
 
-## 📂 Structure du Projet
+##  Structure du Projet
 
 - `src/components/` : Contient tous les composants de l'interface (Header, Hero, Services, etc.).
 - `src/lib/utils.ts` : Utilitaires pour la gestion des classes CSS.
